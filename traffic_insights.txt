@@ -1,0 +1,26 @@
+=== Traffic Insights Report ===
+
+1. Classification Insight
+Heavy traffic often occurs on Highway roads in Main Road during hour 7:00 (peak hour).
+
+2. Anomaly Insight
+Traffic increased by -45.1% during rainy conditions at Location Main Road.
+
+3. Volume Insight
+Predicted traffic volume for Highway road at hour 20:00: 55 vehicles.
+
+4. Peak Hour Analysis by Location and Vehicle Type
+Truck cause heavy traffic on Main Road at 7:00.
+Bus cause heavy traffic on Main Road at 7:00.
+Truck cause heavy traffic on City Center at 9:00.
+Bus cause heavy traffic on City Center at 9:00.
+Truck cause heavy traffic on Downtown at 17:00.
+Bus cause heavy traffic on Downtown at 17:00.
+Truck cause heavy traffic on Highway A at 17:00.
+Bus cause heavy traffic on Highway A at 17:00.
+
+5. Anomaly Trend Analysis
+Most anomalies occur at 14:00 on Main Road.
+
+6. Traffic Flow Recommendation
+Traffic expected to flow smoothly on Highway road at 20:00 with 55 vehicles.
